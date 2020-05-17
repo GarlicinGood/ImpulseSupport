@@ -1,5 +1,5 @@
 export let config = {
-    "token": "NzA5MjEyOTExNTA3MzQxMzEy.XrioYg.ZMGf1640dGR9HSsdoLmFHCeKlok",
+    "token": "Ask Garliced for it",
     "prefix": "/",
     "commands": [
         "testCommand",
