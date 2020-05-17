@@ -1,0 +1,16 @@
+{
+  "name": "seniorproject1.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.7.5",
+    "discord.js": "^11.5.1",
+    "math.js": "^1.1.45"
+  }
+}
